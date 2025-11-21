@@ -17,11 +17,11 @@
 
 ### Programming Languages
 
-<button disabled style="border: 2px solid #007ACC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">JavaScript (Node, React)</button>
-<button disabled style="border: 2px solid #007ACC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Typescript(Nest, Next)</button>
-<button disabled style="border: 2px solid #007ACC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Python (FastAPI)</button>
-<button disabled style="border: 2px solid #007ACC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">SQL</button>
-<button disabled style="border: 2px solid #007ACC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Solidity</button>
+![JavaScript (Node, React)](<https://img.shields.io/badge/JavaScript_(Node,_React)-007ACC?style=for-the-badge&logoColor=white>)
+![Typescript(Nest, Next)](<https://img.shields.io/badge/Typescript(Nest,_Next)-007ACC?style=for-the-badge&logoColor=white>)
+![Python (FastAPI)](<https://img.shields.io/badge/Python_(FastAPI)-007ACC?style=for-the-badge&logoColor=white>)
+![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-007ACC?style=for-the-badge&logoColor=white)
 
 ### Frameworks & Libraries
 
