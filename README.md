@@ -66,35 +66,35 @@
 
 ### Software & Tools
 
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Web Vitals</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Chart.js</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Recharts</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">WebSockets</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">AI-powered APIs</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">AWS Textract</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Tesseract OCR</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Nginx</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Linux</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Ethereum (Wallet Connections, Transactions, On-Chain Data Fetching)</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">SDK Development</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Browser Extensions</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Docker</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Kubernetes</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Lighthouse</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">OpenTelemetry</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Git</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">CI/CD Pipelines</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Swagger</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">CSS</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">DeFi</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">SaaS</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">AI Security</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">OpenAI</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">BrianAI</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">LLMs</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Cursor</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Claude</button>
-<button disabled style="border: 2px solid #FF6B35; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Copilot</button>
+![Web Vitals](https://img.shields.io/badge/Web_Vitals-FF6B35?style=for-the-badge&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6B35?style=for-the-badge&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6B35?style=for-the-badge&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-FF6B35?style=for-the-badge&logoColor=white)
+![AI-powered APIs](https://img.shields.io/badge/AI--powered_APIs-FF6B35?style=for-the-badge&logoColor=white)
+![AWS Textract](https://img.shields.io/badge/AWS_Textract-FF6B35?style=for-the-badge&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-FF6B35?style=for-the-badge&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-FF6B35?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FF6B35?style=for-the-badge&logoColor=white)
+![Ethereum](<https://img.shields.io/badge/Ethereum_(Wallet_Connections,_Transactions,_On--Chain_Data_Fetching)-FF6B35?style=for-the-badge&logoColor=white>)
+![SDK Development](https://img.shields.io/badge/SDK_Development-FF6B35?style=for-the-badge&logoColor=white)
+![Browser Extensions](https://img.shields.io/badge/Browser_Extensions-FF6B35?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF6B35?style=for-the-badge&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-FF6B35?style=for-the-badge&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-FF6B35?style=for-the-badge&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FF6B35?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF6B35?style=for-the-badge&logoColor=white)
+![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD_Pipelines-FF6B35?style=for-the-badge&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-FF6B35?style=for-the-badge&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-FF6B35?style=for-the-badge&logoColor=white)
+![DeFi](https://img.shields.io/badge/DeFi-FF6B35?style=for-the-badge&logoColor=white)
+![SaaS](https://img.shields.io/badge/SaaS-FF6B35?style=for-the-badge&logoColor=white)
+![AI Security](https://img.shields.io/badge/AI_Security-FF6B35?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-FF6B35?style=for-the-badge&logoColor=white)
+![BrianAI](https://img.shields.io/badge/BrianAI-FF6B35?style=for-the-badge&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6B35?style=for-the-badge&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-FF6B35?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-FF6B35?style=for-the-badge&logoColor=white)
 
 ## 🔥 What I'm Working On
 
