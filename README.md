@@ -4,8 +4,8 @@
 
 ### Senior Full-Stack Engineer | Web3 Builder | AI Innovator
 
-<a href="https://kyyas.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AI_Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="AI Portfolio"></a>
-<a href="https://linkedin.com/in/kyyasilmyradov" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://kyyas.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AI_Portfolio-61DAFB?style=for-the-badge&logo=vercel&logoColor=white" alt="AI Portfolio"></a>
+<a href="https://linkedin.com/in/kyyasilmyradov" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-61DAFB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
 
@@ -18,9 +18,9 @@
 ### Programming Languages
 
 ![JavaScript (Node, React)](<https://img.shields.io/badge/JavaScript_(Node,_React)-B73D9E?style=for-the-badge&logoColor=black>)
-![Typescript(Nest, Next)](<https://img.shields.io/badge/Typescript(Nest,_Next)-5693CC?style=for-the-badge&logoColor=black>)
-![Python (FastAPI)](<https://img.shields.io/badge/Python_(FastAPI)-F19143?style=for-the-badge&logoColor=black>)
-![SQL](https://img.shields.io/badge/SQL-10B981?style=for-the-badge&logoColor=black)
+![Typescript(Nest, Next)](<https://img.shields.io/badge/Typescript(Nest,_Next)-61DAFB?style=for-the-badge&logoColor=black>)
+![Python (FastAPI)](<https://img.shields.io/badge/Python_(FastAPI)-FF773D?style=for-the-badge&logoColor=black>)
+![SQL](https://img.shields.io/badge/SQL-764ABC?style=for-the-badge&logoColor=black)
 ![Solidity](https://img.shields.io/badge/Solidity-10B981?style=for-the-badge&logoColor=black)
 
 ### Frameworks & Libraries
