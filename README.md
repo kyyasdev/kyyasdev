@@ -25,7 +25,6 @@
 
 ### Frameworks & Libraries
 
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-61DAFB?style=for-the-badge&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-61DAFB?style=for-the-badge&logoColor=white)
 ![Thirdweb](https://img.shields.io/badge/Thirdweb-61DAFB?style=for-the-badge&logoColor=white)
