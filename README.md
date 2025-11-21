@@ -17,52 +17,52 @@
 
 ### Programming Languages
 
-![JavaScript (Node, React)](<https://img.shields.io/badge/JavaScript_(Node,_React)-007ACC?style=for-the-badge&logoColor=white>)
-![Typescript(Nest, Next)](<https://img.shields.io/badge/Typescript(Nest,_Next)-007ACC?style=for-the-badge&logoColor=white>)
-![Python (FastAPI)](<https://img.shields.io/badge/Python_(FastAPI)-007ACC?style=for-the-badge&logoColor=white>)
-![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-007ACC?style=for-the-badge&logoColor=white)
+![JavaScript (Node, React)](<https://img.shields.io/badge/JavaScript_(Node,_React)-8B5CF6?style=for-the-badge&logoColor=white>)
+![Typescript(Nest, Next)](<https://img.shields.io/badge/Typescript(Nest,_Next)-8B5CF6?style=for-the-badge&logoColor=white>)
+![Python (FastAPI)](<https://img.shields.io/badge/Python_(FastAPI)-8B5CF6?style=for-the-badge&logoColor=white>)
+![SQL](https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-8B5CF6?style=for-the-badge&logoColor=white)
 
 ### Frameworks & Libraries
 
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">React.js</button>
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Express</button>
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Redux</button>
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Thirdweb</button>
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">SIWE (Sign-In With Ethereum)</button>
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Context API</button>
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">React Profiler</button>
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Material-UI (MUI)</button>
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Ant Design</button>
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">ShadCN</button>
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Coinbase</button>
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Coingecko</button>
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Dexscreener</button>
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Codex</button>
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">CoinrankingDB</button>
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">SendAI</button>
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">LangChain</button>
-<button disabled style="border: 2px solid #61DAFB; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">RAG</button>
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logoColor=white)
+![Express](https://img.shields.io/badge/Express-61DAFB?style=for-the-badge&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-61DAFB?style=for-the-badge&logoColor=white)
+![Thirdweb](https://img.shields.io/badge/Thirdweb-61DAFB?style=for-the-badge&logoColor=white)
+![SIWE](<https://img.shields.io/badge/SIWE_(Sign--In_With_Ethereum)-61DAFB?style=for-the-badge&logoColor=white>)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logoColor=white)
+![React Profiler](https://img.shields.io/badge/React_Profiler-61DAFB?style=for-the-badge&logoColor=white)
+![Material-UI](<https://img.shields.io/badge/Material--UI_(MUI)-61DAFB?style=for-the-badge&logoColor=white>)
+![Ant Design](https://img.shields.io/badge/Ant_Design-61DAFB?style=for-the-badge&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-61DAFB?style=for-the-badge&logoColor=white)
+![Coinbase](https://img.shields.io/badge/Coinbase-61DAFB?style=for-the-badge&logoColor=white)
+![Coingecko](https://img.shields.io/badge/Coingecko-61DAFB?style=for-the-badge&logoColor=white)
+![Dexscreener](https://img.shields.io/badge/Dexscreener-61DAFB?style=for-the-badge&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-61DAFB?style=for-the-badge&logoColor=white)
+![CoinrankingDB](https://img.shields.io/badge/CoinrankingDB-61DAFB?style=for-the-badge&logoColor=white)
+![SendAI](https://img.shields.io/badge/SendAI-61DAFB?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-61DAFB?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-61DAFB?style=for-the-badge&logoColor=white)
 
 ### Databases & Data Engineering Tools
 
-<button disabled style="border: 2px solid #764ABC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Postgres</button>
-<button disabled style="border: 2px solid #764ABC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">MySQL</button>
-<button disabled style="border: 2px solid #764ABC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">TimescaleDB</button>
-<button disabled style="border: 2px solid #764ABC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">MongoDB</button>
-<button disabled style="border: 2px solid #764ABC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">ClickHouse</button>
-<button disabled style="border: 2px solid #764ABC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Redis</button>
-<button disabled style="border: 2px solid #764ABC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Pydantic</button>
-<button disabled style="border: 2px solid #764ABC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Alembic</button>
-<button disabled style="border: 2px solid #764ABC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">SQLAlchemy</button>
-<button disabled style="border: 2px solid #764ABC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Sequelize</button>
-<button disabled style="border: 2px solid #764ABC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">TypeORM</button>
-<button disabled style="border: 2px solid #764ABC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Prisma</button>
-<button disabled style="border: 2px solid #764ABC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Firebase</button>
-<button disabled style="border: 2px solid #764ABC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">BigQuery</button>
-<button disabled style="border: 2px solid #764ABC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Vector DBs</button>
-<button disabled style="border: 2px solid #764ABC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Pinecone</button>
-<button disabled style="border: 2px solid #764ABC; background: transparent; color: inherit; padding: 6px 12px; border-radius: 6px; margin: 4px; cursor: default; font-size: 14px;">Elastic Search</button>
+![Postgres](https://img.shields.io/badge/Postgres-764ABC?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-764ABC?style=for-the-badge&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-764ABC?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-764ABC?style=for-the-badge&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-764ABC?style=for-the-badge&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-764ABC?style=for-the-badge&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-764ABC?style=for-the-badge&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-764ABC?style=for-the-badge&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-764ABC?style=for-the-badge&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-764ABC?style=for-the-badge&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-764ABC?style=for-the-badge&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-764ABC?style=for-the-badge&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-764ABC?style=for-the-badge&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-764ABC?style=for-the-badge&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-764ABC?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-764ABC?style=for-the-badge&logoColor=white)
+![Elastic Search](https://img.shields.io/badge/Elastic_Search-764ABC?style=for-the-badge&logoColor=white)
 
 ### Software & Tools
 
