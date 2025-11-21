@@ -101,11 +101,11 @@ Engineered robust backend systems and infrastructure:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyyas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyyasilmyradovv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyyas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyyasilmyradovv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=kyyas&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=kyyasilmyradovv&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
@@ -116,7 +116,6 @@ Engineered robust backend systems and infrastructure:
 - 🤖 Building AI-powered applications with RAG and LLMs
 - ⛓️ Exploring DeFi protocols and Web3 integrations
 - 🚀 Optimizing full-stack applications for scale and performance
-- 📚 Contributing to open-source projects
 
 ## 📫 Let's Connect!
 
@@ -130,8 +129,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <div align="center">
 
-### ⚡ "Building the future, one commit at a time"
+### ⚡ "1 Life 4 Decentralization & AI"
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kyyas.kyyas&left_color=gray&right_color=blue)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kyyasilmyradovv.kyyasilmyradovv&left_color=gray&right_color=blue)
 
 </div>
