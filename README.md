@@ -17,27 +17,92 @@
 
 ### Programming Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-
-JavaScript (Node, React), Typescript(Nest, Next), Python (FastAPI), SQL, Solidity
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0;">
+  <div style="border: 2px solid #007ACC; padding: 6px 12px; border-radius: 6px; display: inline-block;">JavaScript (Node, React)</div>
+  <div style="border: 2px solid #007ACC; padding: 6px 12px; border-radius: 6px; display: inline-block;">Typescript(Nest, Next)</div>
+  <div style="border: 2px solid #007ACC; padding: 6px 12px; border-radius: 6px; display: inline-block;">Python (FastAPI)</div>
+  <div style="border: 2px solid #007ACC; padding: 6px 12px; border-radius: 6px; display: inline-block;">SQL</div>
+  <div style="border: 2px solid #007ACC; padding: 6px 12px; border-radius: 6px; display: inline-block;">Solidity</div>
+</div>
 
 ### Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white) ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-React.js, Express, Redux, Thirdweb, SIWE (Sign-In With Ethereum), Context API, React Profiler, Material-UI (MUI), Ant Design, ShadCN, Coinbase, Coingecko, Dexscreener, Codex, CoinrankingDB, SendAI, LangChain, RAG
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0;">
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">React.js</div>
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">Express</div>
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">Redux</div>
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">Thirdweb</div>
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">SIWE (Sign-In With Ethereum)</div>
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">Context API</div>
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">React Profiler</div>
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">Material-UI (MUI)</div>
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">Ant Design</div>
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">ShadCN</div>
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">Coinbase</div>
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">Coingecko</div>
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">Dexscreener</div>
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">Codex</div>
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">CoinrankingDB</div>
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">SendAI</div>
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">LangChain</div>
+  <div style="border: 2px solid #61DAFB; padding: 6px 12px; border-radius: 6px; display: inline-block;">RAG</div>
+</div>
 
 ### Databases & Data Engineering Tools
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-
-Postgres, MySQL, TimescaleDB, MongoDB, ClickHouse, Redis, Pydantic, Alembic, SQLAlchemy, Sequelize, TypeORM, Prisma, Firebase, BigQuery, Vector DBs, Pinecone, Elastic Search
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0;">
+  <div style="border: 2px solid #764ABC; padding: 6px 12px; border-radius: 6px; display: inline-block;">Postgres</div>
+  <div style="border: 2px solid #764ABC; padding: 6px 12px; border-radius: 6px; display: inline-block;">MySQL</div>
+  <div style="border: 2px solid #764ABC; padding: 6px 12px; border-radius: 6px; display: inline-block;">TimescaleDB</div>
+  <div style="border: 2px solid #764ABC; padding: 6px 12px; border-radius: 6px; display: inline-block;">MongoDB</div>
+  <div style="border: 2px solid #764ABC; padding: 6px 12px; border-radius: 6px; display: inline-block;">ClickHouse</div>
+  <div style="border: 2px solid #764ABC; padding: 6px 12px; border-radius: 6px; display: inline-block;">Redis</div>
+  <div style="border: 2px solid #764ABC; padding: 6px 12px; border-radius: 6px; display: inline-block;">Pydantic</div>
+  <div style="border: 2px solid #764ABC; padding: 6px 12px; border-radius: 6px; display: inline-block;">Alembic</div>
+  <div style="border: 2px solid #764ABC; padding: 6px 12px; border-radius: 6px; display: inline-block;">SQLAlchemy</div>
+  <div style="border: 2px solid #764ABC; padding: 6px 12px; border-radius: 6px; display: inline-block;">Sequelize</div>
+  <div style="border: 2px solid #764ABC; padding: 6px 12px; border-radius: 6px; display: inline-block;">TypeORM</div>
+  <div style="border: 2px solid #764ABC; padding: 6px 12px; border-radius: 6px; display: inline-block;">Prisma</div>
+  <div style="border: 2px solid #764ABC; padding: 6px 12px; border-radius: 6px; display: inline-block;">Firebase</div>
+  <div style="border: 2px solid #764ABC; padding: 6px 12px; border-radius: 6px; display: inline-block;">BigQuery</div>
+  <div style="border: 2px solid #764ABC; padding: 6px 12px; border-radius: 6px; display: inline-block;">Vector DBs</div>
+  <div style="border: 2px solid #764ABC; padding: 6px 12px; border-radius: 6px; display: inline-block;">Pinecone</div>
+  <div style="border: 2px solid #764ABC; padding: 6px 12px; border-radius: 6px; display: inline-block;">Elastic Search</div>
+</div>
 
 ### Software & Tools
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-
-Web Vitals, Chart.js, Recharts, WebSockets, AI-powered APIs, AWS Textract, Tesseract OCR, Nginx, Linux, Ethereum (Wallet Connections, Transactions, On-Chain Data Fetching), SDK Development, Browser Extensions, Docker, Kubernetes, Lighthouse, OpenTelemetry, Git, CI/CD Pipelines, Swagger, CSS, DeFi, SaaS, AI Security, OpenAI, BrianAI, LLMs, Cursor, Claude, Copilot
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0;">
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">Web Vitals</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">Chart.js</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">Recharts</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">WebSockets</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">AI-powered APIs</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">AWS Textract</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">Tesseract OCR</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">Nginx</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">Linux</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">Ethereum (Wallet Connections, Transactions, On-Chain Data Fetching)</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">SDK Development</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">Browser Extensions</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">Docker</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">Kubernetes</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">Lighthouse</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">OpenTelemetry</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">Git</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">CI/CD Pipelines</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">Swagger</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">CSS</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">DeFi</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">SaaS</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">AI Security</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">OpenAI</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">BrianAI</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">LLMs</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">Cursor</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">Claude</div>
+  <div style="border: 2px solid #FF6B35; padding: 6px 12px; border-radius: 6px; display: inline-block;">Copilot</div>
+</div>
 
 ## 🎯 Recent Highlights
 
