@@ -1,12 +1,11 @@
 <div align="center">
 
-# 👋 Hey, I'm Kyyas Ilmyradov
+# 👋 Hey, I'm Kyyas
 
 ### Senior Full-Stack Engineer | Web3 Builder | AI Innovator
 
 <a href="https://kyyas.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AI_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="AI Portfolio"></a>
 <a href="https://linkedin.com/in/kyyasilmyradov" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyyas.ilmyradov@gmail.com)
 
 </div>
 
@@ -14,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Full-Stack Engineer** with **6 years** of experience crafting digital solutions that transform businesses and delight users. I specialize in building scalable applications that integrate cutting-edge technologies like **AI**, **Web3**, and **DeFi** to deliver meaningful results.
+**Senior Full-Stack Engineer** with **6 years of impactful contribution** crafting digital solutions that streamline operations and deliver meaningful results. Across previous roles, built front-end and back-end systems that integrated APIs, connected third-party services, and leveraged emerging technologies—such as **DeFi** to transform finance and **AI** to deliver smarter, user-centric experiences. My stack includes FastAPI, Node, React, Next, Web3 and SQL.
 
 **What drives me:**
 
@@ -22,8 +21,6 @@ I'm a **Senior Full-Stack Engineer** with **6 years** of experience crafting dig
 - 🤖 Exploring the intersection of AI and user experience
 - ⛓️ Creating seamless Web3 integrations
 - 📊 Optimizing systems for performance and scale
-
----
 
 ## 💻 Tech Stack
 
@@ -53,8 +50,6 @@ I'm a **Senior Full-Stack Engineer** with **6 years** of experience crafting dig
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
----
 
 ## 🎯 Recent Highlights
 
@@ -94,8 +89,6 @@ Engineered robust backend systems and infrastructure:
 - ☁️ **50%** faster query execution through smart indexing and AWS cloud optimization
 - 💾 Reduced storage costs by **40%** through advanced cloud strategies
 
----
-
 ## 🔥 What I'm Working On
 
 - 🤖 Building AI-powered applications with RAG and LLMs
@@ -108,9 +101,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 - 🌐 **Portfolio:** [kyyas.dev](https://kyyas.dev)
 - 💼 **LinkedIn:** [linkedin.com/in/kyyasilmyradov](https://linkedin.com/in/kyyasilmyradov)
-- 📧 **Email:** kyyas.ilmyradov@gmail.com
-
----
 
 <div align="center">
 
