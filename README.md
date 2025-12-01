@@ -6,8 +6,20 @@
 
 <a href="https://kyyas.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AI_Portfolio-61DAFB?style=for-the-badge&logoColor=white" alt="AI Portfolio"></a>
 <a href="https://linkedin.com/in/kyyasilmyradov" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-3065AA?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
-<a href="https://my-extra-screen.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Fun_Project-FFB100?style=for-the-badge&logoColor=white" alt="Fun Project"></a>
-
+<a href="https://my-extra-screen.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+  <span style="display: inline-flex; align-items: center;">
+    <img 
+      src="https://kyyas.dev/assets/images/my-extra-screen-logo.png" 
+      alt="My Extra Screen Logo" 
+      height="28" 
+      style="border-radius: 4px; margin-right: 6px;"
+    />
+    <img 
+      src="https://img.shields.io/badge/Fun_Project-FFB100?style=for-the-badge&logoColor=white" 
+      alt="Fun Project"
+    />
+  </span>
+</a>
 </div>
 
 ## 🚀 About Me
