@@ -103,6 +103,6 @@
 
 <div align="center">
 
-### ⚡ "1 Life 4 Decentralization & AI"
+### ⚡ "1 Life 4 Web3 & AI Automation"
 
 </div>
